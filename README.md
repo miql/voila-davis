@@ -1,4 +1,4 @@
-# viola
+# voila
 
 > A static website powered by [React.js](http://facebook.github.io/react/)
 > and [Webpack](http://webpack.github.io/).
